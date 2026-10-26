@@ -1,0 +1,17 @@
+# Diwa777
+
+> Diwa777 is an online gaming website offering a variety of games for entertainment. The site is available at diwa777.space.
+
+## Main Pages
+
+- [Home](https://diwa777.space/): Main page of Diwa777
+- [About Us](https://diwa777.space/about-us.html): About Diwa777
+- [How to Play](https://diwa777.space/how-to-play.html): Guide on how to play the games
+- [FAQ](https://diwa777.space/faq.html): Frequently asked questions
+- [Contact Us](https://diwa777.space/contact-us.html): Contact details
+
+## Policies
+
+- [Privacy Policy](https://diwa777.space/privacy-policy.html): Privacy policy
+- [Responsible Gaming](https://diwa777.space/responsible-gaming.html): Responsible gaming information
+- [Terms and Conditions](https://diwa777.space/terms-and-conditions.html): Terms of use
